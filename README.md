@@ -14,6 +14,6 @@ share with the social network.
 
 产品预览
 ---
-![image](http://ooo.0o0.ooo/2015/10/24/562c39630b9a8.png)
 ![image](http://ooo.0o0.ooo/2015/10/24/562c396239c42.png)
+![image](http://ooo.0o0.ooo/2015/10/24/562c39630b9a8.png)
 
