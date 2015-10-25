@@ -1,7 +1,7 @@
 # H^2
 项目描述
 ---
-Hack you Health<br>
+Hack ur Health<br>
 you can run. you can walk. you can made music by your step.
 this app generate 8-bit music and the cool image by the healthkit data.
 share with the social network.
