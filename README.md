@@ -1,16 +1,19 @@
 # H^2
 项目描述
 ---
-Health &amp; Hack.<br>
+Hack you Health<br>
 you can run. you can walk. you can made music by your step.
+this app generate 8-bit music and the cool image by the healthkit data.
+share with the social network.
 团队成员
 ---
-* [谭雅威](https://github.com/Rand01ph)
-* [吴益新](https://github.com/wyixin)
-* [罗建军](https://github.com/LightStrawberry)
-* 江小妍
+* [@Rand01ph](https://github.com/Rand01ph)
+* [@wyixin](https://github.com/wyixin)
+* [@Betta](https://github.com/LightStrawberry)
+* hellen
 
 产品预览
 ---
-xxx
+![image](http://ooo.0o0.ooo/2015/10/24/562c39630b9a8.png)
+![image](http://ooo.0o0.ooo/2015/10/24/562c396239c42.png)
 
